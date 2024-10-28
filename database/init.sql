@@ -9,7 +9,7 @@ DROP TABLE IF EXISTS AGENT;
 DROP TABLE IF EXISTS CLIENT;
 DROP TABLE IF EXISTS TICKET;
 DROP TABLE IF EXISTS FORUM;
-
+DROP TABLE IF EXISTS IMAGE;
 
 /*******************************************************************************
    Create Tables
